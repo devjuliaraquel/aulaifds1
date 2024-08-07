@@ -1,0 +1,16 @@
+1 problema
+
+1. criar um algoritmo para calcular a media de um aluno que estuda semestralmente e exiba o resultado
+
+ Resposta
+
+ algoritmo Calculandomedia
+ inicio
+ var: n1, n2, mf : real
+ ler n1, n2
+ mf = (n1+n2)/2
+ exibir mf
+ fim
+ 
+
+
